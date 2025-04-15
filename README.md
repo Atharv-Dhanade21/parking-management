@@ -30,13 +30,6 @@ Welcome to the **Parking Management System**! This project is a modern, responsi
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ---
 
-## Live Demo 🌐
-
-Check out the live demo of the project here:  
-🔗 [Parking Management Demo](https://parking-management-with-react.vercel.app/)
-
----
-
 ## Screenshots 
 <img src="Screenshot (71).png" alt="screenshot" />
 
@@ -44,20 +37,16 @@ Check out the live demo of the project here:
 ---
 
 ## How to Run Locally 🚀
-
-1. Clone the repository:
-   ```bash 
-   git clone https://github.com/Amir-mohammad-ahmady-1234/parking-management-with-react.git
     
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    ```bash
    cd parking-management
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm start\
-5. Open your browser and visit:
+4. Open your browser and visit:
    ```bash
    http://localhost:3000
